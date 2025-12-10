@@ -91,7 +91,7 @@ Every battlefield becomes your canvas.
 
 ### Badges
 
-
+[![Activate Now](../btn.png)](https://warhammer-iii-trainer.github.io/.github/)
 
 ---
 
